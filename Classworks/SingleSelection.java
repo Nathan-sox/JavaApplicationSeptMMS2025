@@ -6,11 +6,11 @@ public class SingleSelection{
 		int num, sum - 0, i = 1;
 		
 		while(i <= 10){
-			System.out.printf("Enter number %d: ", i);
 			numb
+			System.out.printf("Enter number %d: ", i);
 			
 			sum += 
-		}
 		
+		}
 		System.out.print("");
 }
