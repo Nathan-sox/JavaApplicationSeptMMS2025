@@ -15,7 +15,7 @@ public class TenNumbers{
 		int sum2 = sum(numbers[2], numbers[7], numbers[1]);
 		int sum3 = sum(numbers[3], numbers[6], numbers[5], numbers[8]);
 		
-		int calculation = sum3 - sum2 * sum1;
+		int c  alculation = sum3 - sum2 * sum1;
 		
 		if(calculation >= 100){
 			System.out.printf("\nSum of numbers 1, 5, 10: %d", sum1);
